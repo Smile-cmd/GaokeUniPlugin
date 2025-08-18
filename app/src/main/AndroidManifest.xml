@@ -12,7 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.GKUniDemo">
         <activity
-            android:name="con.gksc.plugin.MainActivity"
+            android:name="com.gksc.plugin.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

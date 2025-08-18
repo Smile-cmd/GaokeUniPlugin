@@ -1,4 +1,4 @@
-package con.gksc.plugin;
+package com.gksc.plugin;
 
 import androidx.appcompat.app.AppCompatActivity;
 
