@@ -68,4 +68,5 @@ ext {
     legacyVersion = '1.0.0'
     fastjsonVersion = '1.2.73'
 
+    roomVersion = '2.5.2'
 }
