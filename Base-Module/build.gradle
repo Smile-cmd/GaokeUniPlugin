@@ -46,5 +46,4 @@ dependencies {
     androidTestImplementation "androidx.test.ext:junit:$rootProject.junitTestVersion"
     androidTestImplementation "androidx.test.espresso:espresso-core:$rootProject.espressocoreVersion"
     compileOnly "com.alibaba:fastjson:$rootProject.fastjsonVersion"
-    implementation("com.github.Lon-Bon:lb-extend-service:202404091420")
 }

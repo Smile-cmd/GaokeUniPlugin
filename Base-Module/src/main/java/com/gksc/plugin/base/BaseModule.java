@@ -7,7 +7,7 @@ import io.dcloud.feature.uniapp.common.UniModule;
 
 public class BaseModule extends UniModule{
 
-    private static final String TAG = "FloatUniModule";
+    private static final String TAG = "BaseModule";
 
     @UniJSMethod
     public void test(){
