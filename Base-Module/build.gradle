@@ -46,4 +46,7 @@ dependencies {
     androidTestImplementation "androidx.test.ext:junit:$rootProject.junitTestVersion"
     androidTestImplementation "androidx.test.espresso:espresso-core:$rootProject.espressocoreVersion"
     compileOnly "com.alibaba:fastjson:$rootProject.fastjsonVersion"
+
+    implementation "androidx.room:room-runtime:$rootProject.roomVersion"
+    annotationProcessor "androidx.room:room-compiler:$rootProject.roomVersion"
 }
